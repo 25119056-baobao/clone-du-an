@@ -1,1 +1,2 @@
  thực hành git clone từ mạng về local máy
+ dùng git add thì mới được dùng git commit
